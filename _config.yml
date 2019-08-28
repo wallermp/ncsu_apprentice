@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 
 
-title: Apprentice             # Name of the workshop
+title: Practice Session 1             # Name of the workshop
 
 description: |
   This tutorial will help you get your own Apprentice workshop up and running.
