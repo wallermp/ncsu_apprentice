@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Configuration
+title: Configuration v2
 
 order: 2
 duration: 10
